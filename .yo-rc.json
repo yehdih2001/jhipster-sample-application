@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.erp.application",
+    "packageFolder": "io/erp/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "ar-ly",
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.1",
+    "jwtSecretKey": "YzFiNWE5N2Y4OTg5ZjJkZWFmZjMyYzE1N2YyNzJiMjIxMjVmYWVmM2RlMDc5YThlYjkzNTUyYzBjM2FmMDA0ODdhZThlZWVhZDhiODlkZGVlODRhMjVmOTA5MjQ2MTg1ZTc5MjI0NzYzZjc3NDU2YTY2MDE4YWU0NjcwMjRkYjc=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "yehdih2001",
+  "repository-name": "jhipster-sample-application"
+}
